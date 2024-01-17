@@ -1,9 +1,9 @@
 # Deep-learning-CNNs-for-predicting-lung-cancer
 
 
-#Setup data
+# Setup data
 
-
+# NOTE: Delete folders "test" and "train" before run model !!!
 #1 Run cnn.py
 
 
